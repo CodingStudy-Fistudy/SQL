@@ -57,5 +57,5 @@ https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/d
 <b> (EASY) </b>  
 https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/?envType=study-plan-v2&envId=top-sql-50
 5. Product Sales Analysis III
-<b> (MEDIUM) </b>
+<b> (MEDIUM) </b>    
 https://leetcode.com/problems/product-sales-analysis-iii/description/?envType=study-plan-v2&envId=top-sql-50
