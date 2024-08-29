@@ -4,7 +4,7 @@ SQL 스터디
 ### 1주차 (09.02.월 ~ )
 - 기본 SELECT문 사용 문제
 1. Recyclable and Low Fat Products 
-<span style="background-color:#DCFFE4"> EASY </span> 
+<span style="background-color:#DCFFE4"> EASY </span>   
 https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50
 2. Find Customer Referee
 <span style="background-color:#DCFFE4"> EASY </span>   
